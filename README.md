@@ -17,7 +17,7 @@ This project is built with [Flask](https://flask.palletsprojects.com/en/1.1.x/).
 ## Build 
 ### Install and create virtual environment library
 ```
-cd python/
+cd pineapple-flask-restapi/
 pip install virtualenv #if you don't have virtualenv installed 
 ```
 
